@@ -61,3 +61,7 @@ prefabs.json
 .vscode/*.*
 *.js
 *.sym
+Dockerfile
+entrypoint.sh
+install-devkitpro-pacman
+notes.txt
